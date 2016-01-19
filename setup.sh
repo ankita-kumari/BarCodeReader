@@ -12,3 +12,4 @@ mv javase-2.2.jar javase.jar # Rename
 mvn install
 cd ../
 git clone git://github.com/oostendo/python-zxing.git
+python setup.py install
