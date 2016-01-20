@@ -12,3 +12,8 @@ $ python read_bar_code.py <path_to_image>
 ```
 This should get you up and running! :)
 
+##Dependencies
+
+* Python 2.7 or above
+* Maven 3.2 or above
+* Java 1.7 or above
